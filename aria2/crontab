@@ -1,0 +1,1 @@
+0 0 * * 0 /bin/ash /aria2/autoUpdateTracker.sh
